@@ -5,7 +5,7 @@ HyprTK | Node.JS Server Library
 [![Npm package version](https://badgen.net/npm/v/hyprtk)](https://npmjs.com/package/hyprtk)
 [![NPM Package Downloads](https://badgen.net/npm/dt/hyprtk)](https://npmjs.com/package/hyprtk)
 [![Try on RunKit](https://badge.runkitcdn.com/hyprtk.svg)](https://runkit.com/npm/hyprtk)
-[![License](https://img.shields.io/github/license/hyperteksolutions/hyprtk)](https://github.com/Hypertek-Solutions/hyprtk/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/hyperteksolutions/hyprtk)](https://github.com/hyperteksolutions/hyprtk/blob/master/LICENSE)
 [![Dashboard](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://hypr.tk/)
 
 ---
