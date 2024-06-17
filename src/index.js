@@ -4,7 +4,7 @@ class HyprTK {
   constructor(key) {
     this.key = key;
     this.instance = axios.create({
-      baseURL: "https://api.hypr.tk/v1/api",
+      baseURL: "https://api.hyprtk.co/v1/api",
       timeout: 15000,
       headers: { authorization: "Bearer " + this.key },
     });
